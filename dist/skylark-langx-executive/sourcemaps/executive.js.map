@@ -1,0 +1,1 @@
+{"version":3,"sources":["executive.js"],"names":["define","skylark","attach"],"mappings":";;;;;;;AAAAA,QACI,oBACF,SAASC,GACV,OAAOA,EAAQC,OAAO","file":"../executive.js","sourcesContent":["define([\r\n    \"skylark-langx-ns\"\r\n],function(skylark){\r\n\treturn skylark.attach(\"langx.executive\");\r\n});"]}
